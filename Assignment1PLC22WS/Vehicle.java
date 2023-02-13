@@ -1,7 +1,3 @@
-/**
- * @author Lamies Abbas
- * @id 12128050
- */
 import java.util.*;
 import java.io.Serializable;
 

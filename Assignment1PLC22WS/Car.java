@@ -1,8 +1,3 @@
-/**
- * @author Lamies Abbas
- * @id 12128050
- */
-
 import java.util.*;
 
 public class Car extends Vehicle {

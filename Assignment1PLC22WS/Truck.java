@@ -1,9 +1,3 @@
-/**
- * @author Lamies Abbas
- * @id 12128050
- */
-
-
 public class Truck extends Vehicle {
 
     public Truck(String brand, String model, int year_built, double base_price, int id) {

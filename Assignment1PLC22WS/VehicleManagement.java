@@ -1,10 +1,6 @@
 import java.util.stream.Collectors;
 import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
-/**
- * @author Lamies Abbas
- * @id 12128050
- */
 
 public class VehicleManagement {
 

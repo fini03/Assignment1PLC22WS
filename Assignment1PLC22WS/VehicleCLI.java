@@ -1,8 +1,3 @@
-/**
- * @author Lamies Abbas
- * @id 12128050
- */
-
 public class VehicleCLI {
 
 	private enum Commands {
